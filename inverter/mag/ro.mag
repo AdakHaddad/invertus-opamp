@@ -1,0 +1,11 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1729332592
+<< checkpaint >>
+rect -1260 -1260 2104 4638
+use roinverter  roinverter_0
+timestamp 1729331634
+transform 1 0 163 0 1 2386
+box -163 -2386 681 992
+<< end >>
